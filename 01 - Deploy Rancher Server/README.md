@@ -75,7 +75,7 @@ rke config
 ```
 Lets take a look at our `cluster.yaml`
 ```
-cat cluster.yaml
+cat cluster.yml
 ```
 
 Install Kubernetes

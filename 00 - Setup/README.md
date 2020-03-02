@@ -1,6 +1,6 @@
 ### Setup Builder Node
 
-Add the 443, 6443 port inbound rule on the NSG
+Add the 80, 443, 6443, 22 port inbound rule on the NSG
 
 To install Docker on Ubuntu 18.09 run the following command.
 
